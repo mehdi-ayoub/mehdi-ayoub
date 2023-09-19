@@ -1,8 +1,8 @@
-
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Mehdi Ayoub</h1>
 <h3 align="center">Full Stack Web Developer, Crafting Digital Solutions with Code 🚀</h3>
 
-<img align="right" alt="coding" width="400" height="300" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="right" alt="coding" width="300" height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdi-ayoub&label=Profile%20views&color=0e75b6&style=flat" alt="mehdi-ayoub" /> </p>
 
